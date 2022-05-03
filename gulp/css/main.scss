@@ -1,0 +1,21 @@
+
+// ? Libs
+@import "../node_modules/normalize.css/normalize";
+
+@import "custom-bootstrap";
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// @import "../node_modules/simplebar/dist/simplebar";
+
+// @import "custom-mixins";
+// @import "../node_modules/@fancyapps/fancybox/dist/jquery.fancybox";
+
+@import "../node_modules/swiper/swiper-bundle";
+@import "custom-swiper";
+
+// ? Site Style
+@import "base";
+@import "header";
+@import "content";
+@import "footer";
+@import "blocks";

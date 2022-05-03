@@ -1,0 +1,49 @@
+// Base
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  max-width: 100vw;
+  overflow-x: hidden;
+  background: #282828;
+  html.ios &, html.iphone & {
+    background-color: #141414;
+  }
+}
+// font-family: 'Prata', serif;
+// font-family: 'Trirong', serif;
+
+h1 {
+  font-size: 80px;
+  font-weight: 500;
+  @media (max-width:767px) {
+    font-size: 30px;
+  }
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 50px;
+  color: #9fa9b8;
+}
+
+h4 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #ffffff;
+}
+
+p, span {
+  font-size: 20px;
+  font-weight: 300;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  &:hover {
+    text-decoration: underline;
+    color: #fff;
+  }
+}

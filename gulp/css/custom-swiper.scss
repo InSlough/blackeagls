@@ -1,0 +1,9 @@
+$themeColor: red;
+$colors: (
+  "white": #ffffff,
+  "black": #000000
+);
+
+:root {
+  --swiper-theme-color: $themeColor;
+}

@@ -1,0 +1,12 @@
+// Footer
+footer {
+  padding-bottom: 40px;
+  @include media-breakpoint-up(lg) {
+    padding-bottom: 140px;
+  }
+  .cl {
+    a:hover {
+      text-decoration: none;
+    }
+  }
+}
