@@ -1,0 +1,11 @@
+[
+  { "pID": "10", "safety": "1", "weight": "500", "calorie": "360", "dia": "Да", "price": "28" },
+  { "pID": "12", "safety": "1", "weight": "500", "calorie": "359", "dia": "Да", "price": "34" },
+  { "pID": "13", "safety": "4", "weight": "400", "calorie": "362", "dia": "", "price": "22" },
+  { "pID": "14", "safety": "2", "weight": "500", "calorie": "333", "dia": "", "price": "37" },
+  { "pID": "15", "safety": "4", "weight": "800", "calorie": "420", "dia": "", "price": "35" },
+  { "pID": "34", "safety": "1", "weight": "270", "calorie": "102", "dia": "", "price": "14" },
+  { "pID": "36", "safety": "1", "weight": "250", "calorie": "72", "dia": "Да", "price": "13" },
+  { "pID": "42", "safety": "2", "weight": "250", "calorie": "90", "dia": "Да", "price": "19" },
+  { "pID": "44", "safety": "3", "weight": "250", "calorie": "70", "dia": "Да", "price": "14" }
+]
